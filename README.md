@@ -12,4 +12,4 @@ Not a match? No worries just try and remember the revealed tiles!
 
 If you chose to play against the computer watch out! He probably has a better ability to remember! :wink:
 
-This project is done as a part of an academic course in collaboration with @itay62
+This project is done as a part of an academic course in collaboration with @Itay62

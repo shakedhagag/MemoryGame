@@ -1,7 +1,7 @@
 ### MemoryGame
 A fun .NET console application written in C# as a part of an academic course.
 
-On start enter the names of the players or choose to play against the computer!
+On start: enter the names of the players or choose to play against the computer!
 Then choose the width and height of the memory game board!
 Enter the first tile coordinate (i.e A1, B3, B2...) you wish to reveal!
 Enter the second coordinate.
